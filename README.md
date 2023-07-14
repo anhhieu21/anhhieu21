@@ -26,6 +26,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhhieu21&show_icons=true&bg_color=00000000&theme=dark&rank_icon=github)   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhieu21&hide=html,javascript,java&hide_border=true&card_width=320&layout=compact&langs_count=10&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhhieu21&show_icons=true&bg_color=00000000&theme=dark&rank_icon=github&count_private=true)   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhieu21&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff&exclude_repo=github-readme-stats)
 
 	
