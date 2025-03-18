@@ -1,7 +1,7 @@
 ### Hi there, I'm **Nhu Anh Hieu** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=200&color=cyan&center=true&vCenter=true&width=800&lines=I'm+a+Software+Developer;Passionate+about+Technology+%26+Coding;Love+Building+Mobile+%26+Web+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=cyan&center=true&vCenter=true&width=800&lines=I'm+a+Software+Developer;Passionate+about+Technology+%26+Coding;Love+Building+Mobile+%26+Web+Applications"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 #### 👨‍💻 Languages & Frameworks:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,angular,firebase,nodejs,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,angular,firebase,nodejs,go,python,git,github" />
 </p>
 
 #### ⚙️ Tools & Platforms:
